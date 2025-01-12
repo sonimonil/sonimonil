@@ -1,16 +1,8 @@
 ### Hi 👋, Monil Soni Here
-<div align="center">
-  <img src="https://img.freepik.com/free-vector/realistic-design-rainbow_23-2148503690.jpg?t=st=1736687535~exp=1736691135~hmac=e09326f7bb28c65e023918c42ab2d0654f15fd2545db5fd767faef6c5d362717&w=740" width="120%" />
-</div>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Power+BI+Web+Developer+💻;Data+Automation+Specialist+☀;Data+Analyst+👨‍💻;"/>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=%040475FF&background=FFFFFF00&width=700&height=51&lines=Date+Analyst;Power+BI+Developer;Data+Automation+Specialist" alt="Typing SVG" /></a>
 </p>
 
-
-<div align="center">
-  <img align="center" src="https://img.freepik.com/free-vector/realistic-design-rainbow_23-2148503690.jpg?t=st=1736687535~exp=1736691135~hmac=e09326f7bb28c65e023918c42ab2d0654f15fd2545db5fd767faef6c5d362717&w=740" width="120%"/>
-</div>
 <img src="https://img.freepik.com/free-vector/site-stats-concept-illustration_114360-1434.jpg?t=st=1736684084~exp=1736687684~hmac=325aa3c87c3a1466151595d9f262748f47ce9cf9c397aa19b21d9d03f4cd2bd5&w=740" alt="Data Analyst" width = "30%" height= "270" align = "right"> 
 
 
