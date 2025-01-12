@@ -1,6 +1,6 @@
 ### Hi 👋, Monil Soni Here
 <div align="center">
-  <img src="./images/rainbow.png" width="120%" />
+  <img src="https://www.pngwing.com/en/free-png-byqgn" width="120%" />
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img align="center" src="./images/rainbow.png" width="120%"/>
+  <img align="center" src="https://www.pngwing.com/en/free-png-byqgn" width="120%"/>
 </div>
 <img src="https://img.freepik.com/free-vector/site-stats-concept-illustration_114360-1434.jpg?t=st=1736684084~exp=1736687684~hmac=325aa3c87c3a1466151595d9f262748f47ce9cf9c397aa19b21d9d03f4cd2bd5&w=740" alt="Data Analyst" width = "30%" height= "270" align = "right"> 
 
