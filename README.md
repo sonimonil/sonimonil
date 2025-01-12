@@ -23,6 +23,8 @@ employer’s success.
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height=20>
 <img src="https://img.shields.io/badge/GitHub-%23121011?style=plastic&logo=github&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/LaTeX-47A248?style=plastic&logo=latex&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Automation-FF6F00?style=plastic&logo=processwire&logoColor=white" height=20>
+
 
 </p>
 
