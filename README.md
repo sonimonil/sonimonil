@@ -2,9 +2,15 @@
 <div align="center">
   <img src="./images/rainbow.png" width="120%" />
 </div>
-<p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=%040475FF&background=FFFFFF00&width=700&height=51&lines=Data+Analyst;Power+BI+Developer;Data+Automation+Specialist" alt="Typing SVG" /></a>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?&size=30&color=%040475FF&font=Poppins&center=true&vCenter=true&width=550&height=70&lines=Power+BI+Web+Developer+💻;Data+Automation+Specialist+☀;Data+Analyst+👨‍💻;"/>
 </p>
+
+
+<div align="center">
+  <img align="center" src="./images/rainbow.png" width="120%"/>
+</div>
 <img src="https://img.freepik.com/free-vector/site-stats-concept-illustration_114360-1434.jpg?t=st=1736684084~exp=1736687684~hmac=325aa3c87c3a1466151595d9f262748f47ce9cf9c397aa19b21d9d03f4cd2bd5&w=740" alt="Data Analyst" width = "30%" height= "270" align = "right"> 
 
 
