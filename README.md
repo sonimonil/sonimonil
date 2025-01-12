@@ -1,5 +1,5 @@
 ### Hi 👋, Monil Soni Here
-<div align="right">
+<div align="center">
   <img src="./images/rainbow.png" width="120%" />
 </div>
 <p>
