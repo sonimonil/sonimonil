@@ -13,19 +13,7 @@ dive into the world of analytics and make a meaningful impact. I aspire to apply
 business problems, fuel innovation, and streamline operations, all while making a valuable contribution to my future
 employer’s success.
 
-## 🚀 Languages and Tools:
 
-<p align="center">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
-<img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height=20>
-<img src="https://img.shields.io/badge/GitHub-%23121011?style=plastic&logo=github&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/LaTeX-47A248?style=plastic&logo=latex&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/Automation-FF6F00?style=plastic&logo=processwire&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" height=20>
-</p>
 
 Having an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
 
@@ -57,6 +45,25 @@ I also love working with different technologies & platforms are :
 ❤️ PowerBI
 ❤️ Tableau
 ❤️ Automation
+
+## 🚀 Languages and Tools:
+
+<p align="center">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
+<img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height=20>
+<img src="https://img.shields.io/badge/GitHub-%23121011?style=plastic&logo=github&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/LaTeX-47A248?style=plastic&logo=latex&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Automation-FF6F00?style=plastic&logo=processwire&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" height=20>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/monil-soni-69a643159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/monilsoni01/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
 
 
 
