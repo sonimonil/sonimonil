@@ -1,4 +1,7 @@
 ### Hi 👋, Monil Soni Here
+<div align="right">
+  <img src="./images/rainbow.png" width="120%" />
+</div>
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=%040475FF&background=FFFFFF00&width=700&height=51&lines=Data+Analyst;Power+BI+Developer;Data+Automation+Specialist" alt="Typing SVG" /></a>
 </p>
