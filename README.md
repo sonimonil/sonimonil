@@ -41,6 +41,16 @@ I also love working with different technologies & platforms are :
 ❤️ Tableau
 ❤️ Automation
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="(https://www.linkedin.com/in/monil-soni-69a643159/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monilsoni" height="30" width="40" /></a>
+<a href="(https://www.kaggle.com/monils12)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="(https://www.kaggle.com/monils12)" height="30" width="40" /></a>
+
+</p>
+
+
+
+
 <!--
 **sonimonil/sonimonil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
