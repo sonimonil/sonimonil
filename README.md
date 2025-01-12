@@ -20,7 +20,9 @@ employer’s success.
 <img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height=20>
+<img src="https://img.shields.io/badge/GitHub-%23121011?style=plastic&logo=github&logoColor=white" height=20>
+<img src="<img src="https://img.shields.io/badge/LaTaX-0696D7?style=plastic&logo=LaTaX&logoColor=white" height=20>
 </p>
 
 Having an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
