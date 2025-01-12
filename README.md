@@ -60,6 +60,7 @@ I also love working with different technologies & platforms are :
 <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" height=20>
 </p>
 
+## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/monil-soni-69a643159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com/monilsoni01/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
