@@ -13,7 +13,15 @@ dive into the world of analytics and make a meaningful impact. I aspire to apply
 business problems, fuel innovation, and streamline operations, all while making a valuable contribution to my future
 employer’s success.
 
-Having good knowledge of  Python,R, SQL, Advance Excel, PowerBI & Tableau, LaTeX.
+## 🚀 Languages and Tools:
+
+<p align="center">
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=plastic&logo=Power%20BI&logoColor=black" height=20>
+<img src="https://img.shields.io/badge/MySQL-000000?style=plastic&logo=mysql&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
+</p>
 
 Having an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
 
