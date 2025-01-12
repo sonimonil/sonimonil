@@ -1,4 +1,4 @@
-
+<img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Data Analyst" width = "50%" height= "270" align = "right"> 
 ### Hi, Monil Soni Here👋
 
 
