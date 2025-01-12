@@ -38,13 +38,6 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
-I also love working with different technologies & platforms are :
-❤️ API
-❤️ SQL/MySQL
-❤️ Python
-❤️ PowerBI
-❤️ Tableau
-❤️ Automation
 
 ## 🚀 Languages and Tools:
 
@@ -58,6 +51,8 @@ I also love working with different technologies & platforms are :
 <img src="https://img.shields.io/badge/LaTeX-47A248?style=plastic&logo=latex&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Automation-FF6F00?style=plastic&logo=processwire&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/API-0052CC?style=plastic&logo=fastapi&logoColor=white" height=20>
+
 </p>
 
 ## Connect with me:
