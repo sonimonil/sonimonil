@@ -24,8 +24,7 @@ employer’s success.
 <img src="https://img.shields.io/badge/GitHub-%23121011?style=plastic&logo=github&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/LaTeX-47A248?style=plastic&logo=latex&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Automation-FF6F00?style=plastic&logo=processwire&logoColor=white" height=20>
-
-
+<img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" height=20>
 </p>
 
 Having an Advanced understanding of statistical, algebraic, and other analytical techniques coupled with various programming languages and am highly motivated to learn, grow and excel in the Data Science Industry.
