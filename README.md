@@ -75,4 +75,4 @@ I'm a **Power BI Developer** with **4+ years of experience** in Business Intelli
 
 ---
 
-<p align="center">📫 Reach me at <b>sonimonil605@gmail.com</b> — open to <b>Data Analyst / Business Intelligence / Business Analytics</b> roles.</p>
+<p align="center">📫 Reach me at <b>sonimonil247@gmail.com</b> — open to <b>Data Analyst / Business Intelligence / Business Analytics</b> roles.</p>
