@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/monil-soni-69a643159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/sonimonil/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 
