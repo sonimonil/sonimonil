@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about data science, learning,career & how to be an entrepreneur 
 
-📫 How to reach me: sonimonil605@gmail.com
+📫 How to reach me: sonimonil247@gmail.com
 
 😄 Pronouns: He/Him
 
@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Tableau-white?style=plastic&logo=Tableau&logoColor=blue" height=20>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black" height=20>
-<img src="https://img.shields.io/badge/GitHub-%23121011?style=plastic&logo=github&logoColor=white" height=20>
-<img src="https://img.shields.io/badge/LaTeX-47A248?style=plastic&logo=latex&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Automation-FF6F00?style=plastic&logo=processwire&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white" height=20>
 <img src="https://img.shields.io/badge/API-0052CC?style=plastic&logo=fastapi&logoColor=white" height=20>
@@ -58,7 +56,6 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/monil-soni-69a643159/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/monilsoni01/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 
