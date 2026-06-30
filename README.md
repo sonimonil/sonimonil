@@ -64,15 +64,16 @@ I'm a **Power BI Developer** with **4+ years of experience** in Business Intelli
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub KPI Scorecard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimonil&layout=compact&hide_border=true&title_color=2C7BE5" alt="Top Languages"/>
-  <img height="170" src="https://github-readme-streak-stats.vercel.app/?user=sonimonil&theme=dark&hide_border=true&fire=2C7BE5&ring=2C7BE5&lbl_text=2C7BE5" alt="GitHub Streak Stats"/>
+  <img src="https://img.shields.io/github/stars/sonimonil?style=for-the-badge&labelColor=1c1d21&color=2C7BE5&logo=github&label=Total+Stars" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/directory-file-count/sonimonil?style=for-the-badge&labelColor=1c1d21&color=2C7BE5&logo=github&label=Repositories" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/followers/sonimonil?style=for-the-badge&labelColor=1c1d21&color=2C7BE5&logo=github&label=Followers" alt="Followers"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonimonil&bg_color=00000000&color=2C7BE5&line=2C7BE5&point=2C7BE5&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimonil&layout=compact&hide_border=true&title_color=2C7BE5" alt="Top Languages"/>
 </p>
 ---
 
