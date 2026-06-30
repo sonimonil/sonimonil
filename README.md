@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/monil-soni-69a643159/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sonimonil605@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:sonimonil247@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=sonimonil&color=2C7BE5&label=Profile+Views" alt="Profile views"/>
 </p>
 
@@ -67,11 +67,9 @@ I'm a **Power BI Developer** with **4+ years of experience** in Business Intelli
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonimonil&show_icons=true&hide_border=true&title_color=2C7BE5&icon_color=2C7BE5" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonimonil&show_icons=true&hide_border=true&title_color=2C7BE5&icon_color=2C7BE5&locale=en" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimonil&layout=compact&hide_border=true&title_color=2C7BE5" alt="Top Languages"/>
 </p>
-
-<!-- Optional: remove the stats block above if you'd prefer a cleaner, content-only profile. -->
 
 ---
 
