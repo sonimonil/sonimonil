@@ -67,8 +67,13 @@ I'm a **Power BI Developer** with **4+ years of experience** in Business Intelli
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma.vercel.app/api?username=sonimonil&show_icons=true&hide_border=true&title_color=2C7BE5&icon_color=2C7BE5&theme=dark" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimonil&layout=compact&hide_border=true&title_color=2C7BE5" alt="Top Languages"/>
+  <img src="https://img.shields.io/github/commits-per-year/sonimonil?style=flat-square&labelColor=1c1d21&color=2C7BE5&logo=github&label=Commits+This+Year" alt="Commits"/>
+  <img src="https://img.shields.io/github/repo-size/sonimonil/PowerBI?style=flat-square&labelColor=1c1d21&color=2C7BE5&logo=powerbi&label=Power+BI+Repo+Size" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/issues-closed/sonimonil/Customer-Sales-Analysis?style=flat-square&labelColor=1c1d21&color=2C7BE5&logo=git&label=Resolved+Issues" alt="Resolved Issues"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonimonil&bg_color=00000000&color=2C7BE5&line=2C7BE5&point=2C7BE5&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 ---
 
