@@ -64,13 +64,12 @@ I'm a **Power BI Developer** with **4+ years of experience** in Business Intelli
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.vercel.app/?user=sonimonil&theme=dark&hide_border=true&fire=2C7BE5&ring=2C7BE5&lbl_text=2C7BE5" alt="GitHub Streak Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimonil&layout=compact&hide_border=true&title_color=2C7BE5" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-streak-stats.vercel.app/?user=sonimonil&theme=dark&hide_border=true&fire=2C7BE5&ring=2C7BE5&lbl_text=2C7BE5" alt="GitHub Streak Stats"/>
 </p>
-
 ---
 
 <p align="center">📫 Reach me at <b>sonimonil247@gmail.com</b> — open to <b>Data Analyst / Business Intelligence / Business Analytics</b> roles.</p>
