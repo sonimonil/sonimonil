@@ -66,9 +66,14 @@ I'm a **Power BI Developer** with **4+ years of experience** in Business Intelli
 
 ### 📈 GitHub Analytics
 
+### 📈 GitHub Milestones & Activity
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimonil&layout=compact&hide_border=true&title_color=2C7BE5" alt="Top Languages"/>
-  <img height="170" src="https://github-readme-streak-stats.vercel.app/?user=sonimonil&theme=dark&hide_border=true&fire=2C7BE5&ring=2C7BE5&lbl_text=2C7BE5" alt="GitHub Streak Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sonimonil&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonimonil&bg_color=00000000&color=2C7BE5&line=2C7BE5&point=2C7BE5&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 ---
 
