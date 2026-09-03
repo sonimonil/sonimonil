@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Power BI Developer** with **4+ years of experience** in Business Intelligence & Analytics, turning messy, multi-source data into real-time dashboards that leadership teams actually use to make decisions.
+I'm a **Power BI Developer** with **5+ years of experience** in Business Intelligence & Analytics, turning messy, multi-source data into real-time dashboards that leadership teams actually use to make decisions.
 
 - 🔭 Building enterprise-grade BI solutions at **Smart Mind** — previously at **PhysicsWallah**
 - 📊 I design star-schema data models, complex **DAX** measures, and automated **ETL** pipelines
