@@ -26,6 +26,16 @@ I'm a **Power BI Developer** with **5+ years of experience** in Business Intelli
 
 ---
 
+### ▶️ Live dashboards — open them in your browser
+
+| | What you can do |
+|---|---|
+| **[Sales Team Performance](https://sonimonil.github.io/Sales_Performance/Interactive_Sales_Dashboard.html)** | Slice 6,939 call records by quarter, rep, doctor grade, territory and month |
+| **[FNP Festival Seasonality](https://sonimonil.github.io/FNP-Sales-Analysis/FNP_Sales_Dashboard.html)** | 1,000 gifting orders — see the four months that carry 68% of the year |
+| **[E-Commerce Consumer Behaviour](https://sonimonil.github.io/Online_Purchase_Counsumer_Behaviour-E-Commerce-/dashboard.html)** | 1,000 respondents, correlation and regression results *(simulated data)* |
+
+---
+
 ### 🛠️ Tech Stack
 
 **BI & Visualization**
