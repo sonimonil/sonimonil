@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Monil Soni</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2C7BE5&center=true&width=620&lines=Power+BI+Developer;BI+%26+Analytics+Specialist;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2C7BE5&center=true&width=620&lines=Power+BI+Developer;Semantic+Modeling+%7C+DAX+%7C+RLS;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/monil-soni-69a643159/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://sonimonil.github.io"><img src="https://img.shields.io/badge/Portfolio-2C7BE5?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/sonimonil/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sonimonil247@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=sonimonil&color=2C7BE5&label=Profile+Views" alt="Profile views"/>
 </p>
@@ -16,9 +17,9 @@
 
 I'm a **Power BI Developer** with **5+ years of experience** in Business Intelligence & Analytics, turning messy, multi-source data into real-time dashboards that leadership teams actually use to make decisions.
 
-- 🔭 Building enterprise-grade BI solutions at **Smart Mind** — previously at **PhysicsWallah**
+- 🔭 Building enterprise-grade BI solutions at **Smart Minds** — previously at **PhysicsWallah**
 - 📊 I design star-schema data models, complex **DAX** measures, and automated **ETL** pipelines
-- ⚡ My work has cut manual reporting effort by up to **60%** and dashboard load times by **~55%**
+- ⚡ My work has cut manual reporting effort by up to **60%** and dashboard refresh times by **~55%**
 - 🔐 Hands-on with **Row-Level Security (RLS)**, Power BI Service, and governed report distribution to **200+ users**
 - 🎓 **MBA in Business Analytics** · Based in Vadodara, India
 - 💬 Ask me about **Power BI, DAX, Power Query, SQL, and dashboard design**
@@ -43,8 +44,11 @@ I'm a **Power BI Developer** with **5+ years of experience** in Business Intelli
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
-**Tools**
+**Modeling & Ops**
 <p>
+  <img src="https://img.shields.io/badge/Tabular_Editor-2C7BE5?style=flat" alt="Tabular Editor"/>
+  <img src="https://img.shields.io/badge/DAX_Studio-2C7BE5?style=flat" alt="DAX Studio"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Fabric"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -56,11 +60,11 @@ I'm a **Power BI Developer** with **5+ years of experience** in Business Intelli
 | Project | What it does | Tools |
 |---------|--------------|-------|
 | [📊 Power BI Dashboards](https://github.com/sonimonil/PowerBI) | End-to-end dashboards with star-schema models, DAX measures, and KPI tracking | Power BI, DAX |
-| [🛒 Customer Sales Analysis](https://github.com/sonimonil/Customer-Sales-Analysis) | Sales performance analysis and customer segmentation | Python, SQL |
-| [🏢 KPMG Internship Project](https://github.com/sonimonil/KPMG_Internship_Project) | Data quality assessment & customer analytics case study | Python, Excel |
-| [🔍 Exploratory Data Analysis](https://github.com/sonimonil/Exploratory_Data_Analysis) | EDA uncovering trends and patterns in real-world data | Python, Pandas |
-
-> 📝 **Update this table** as you build out projects. Pin your 6 strongest repos and make sure each has a README + screenshots before featuring it here.
+| [💰 Financial Planning & Analysis](https://github.com/sonimonil/Financial-Planning-Analysis) | Budget vs. actuals, variance analysis and forecasting workflows | Python, Excel |
+| [🛍️ Retail Sales Analytics](https://github.com/sonimonil/Retail-Sales-Analytics) | Store and category performance analysis across the retail funnel | Python, SQL |
+| [🛒 Customer Sales Analysis](https://github.com/sonimonil/Customer-Sales-Analysis) | Sales performance and customer segmentation from an 8-table SQL join | Python, SQL |
+| [📣 Marketing Analytics](https://github.com/sonimonil/Marketing-Analytics) | Campaign performance and channel-level conversion analysis | Python, Pandas |
+| [📈 Sales Performance](https://github.com/sonimonil/Sales_Performance) | KPI tracking and sales trend reporting | Power BI, SQL |
 
 ---
 
@@ -68,8 +72,10 @@ I'm a **Power BI Developer** with **5+ years of experience** in Business Intelli
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-one.vercel.app/api?username=sonimonil&show_icons=true&hide_border=true&title_color=2C7BE5&icon_color=2C7BE5&theme=dark" alt="GitHub Stats"/>
-  
 </p>
+
 ---
 
-<p align="center">📫 Reach me at <b>sonimonil247@gmail.com</b> — open to <b>Data Analyst / Business Intelligence / Business Analytics</b> roles.</p>
+<p align="center">📫 Reach me at <b>sonimonil247@gmail.com</b> — open to <b>Power BI Developer / BI Engineer</b> roles in Vadodara, remote, or relocating.</p>
+
+---
