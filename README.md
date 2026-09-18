@@ -57,14 +57,14 @@ I'm a **Power BI Developer** with **5+ years of experience** in Business Intelli
 
 ### 📌 Featured Projects
 
-| Project | What it does | Tools |
-|---------|--------------|-------|
-| [📊 Power BI Dashboards](https://github.com/sonimonil/PowerBI) | End-to-end dashboards with star-schema models, DAX measures, and KPI tracking | Power BI, DAX |
-| [💰 Financial Planning & Analysis](https://github.com/sonimonil/Financial-Planning-Analysis) | Budget vs. actuals, variance analysis and forecasting workflows | Python, Excel |
-| [🛍️ Retail Sales Analytics](https://github.com/sonimonil/Retail-Sales-Analytics) | Store and category performance analysis across the retail funnel | Python, SQL |
-| [🛒 Customer Sales Analysis](https://github.com/sonimonil/Customer-Sales-Analysis) | Sales performance and customer segmentation from an 8-table SQL join | Python, SQL |
-| [📣 Marketing Analytics](https://github.com/sonimonil/Marketing-Analytics) | Campaign performance and channel-level conversion analysis | Python, Pandas |
-| [📈 Sales Performance](https://github.com/sonimonil/Sales_Performance) | KPI tracking and sales trend reporting | Power BI, SQL |
+| Project | The finding | Tools |
+|---------|-------------|-------|
+| [💰 Financial Planning & Analysis](https://github.com/sonimonil/Financial-Planning-Analysis) | Enterprise sells below cost — COGS at 103% of net sales. Built in PBIP format, so the model is diffable in Git | Power BI, DAX, Python |
+| [📈 Sales Team Performance](https://github.com/sonimonil/Sales_Performance) | 8-rep field force, Q1 → Q2: business +22.4%, call adherence +8.1pp, reconciled from 15 source reports | Excel, BI reporting |
+| [🎁 FNP Festival Sales](https://github.com/sonimonil/FNP-Sales-Analysis) | Four festival months carry 68% of annual revenue, at a 4.3× multiplier over quiet months | Excel, Python, SVG |
+| [🛍️ Retail Sales Analytics](https://github.com/sonimonil/Retail-Sales-Analytics) | Profit per order collapses from ₹270 to ₹7 as discounts deepen; 18.2% YoY growth underneath | SQL, Python, Pandas |
+| [🛒 Online Purchase Behaviour](https://github.com/sonimonil/Online_Purchase_Counsumer_Behaviour-E-Commerce-) | Satisfaction and loyalty drive repurchase intention far more than price — tested with ANOVA and regression | Statistics, dashboards |
+| [📣 Marketing Analytics](https://github.com/sonimonil/Marketing-Analytics) | Latest campaign hit >60% acceptance in Mexico; web and store outperform every other channel | Python, Power BI |
 
 ---
 
