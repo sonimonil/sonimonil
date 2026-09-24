@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Monil Soni — Power BI Developer and Data Analyst">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1222"/><stop offset="1" stop-color="#111C3A"/>
+    </linearGradient>
+    <linearGradient id="yf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F2C811" stop-opacity=".25"/><stop offset="1" stop-color="#F2C811" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4FA3F7"/><stop offset="1" stop-color="#4FA3F7" stop-opacity=".35"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+      .grid{stroke:#ffffff;stroke-opacity:.07}
+      .axis{stroke:#ffffff;stroke-opacity:.18}
+      @keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+      .b{transform-box:fill-box;transform-origin:bottom;animation:grow 1.2s ease-out both}
+      @keyframes draw{from{stroke-dashoffset:700}to{stroke-dashoffset:0}}
+      .ln{stroke-dasharray:700;animation:draw 2s ease-out .3s both}
+    </style>
+  </defs>
+  <rect width="1280" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- text -->
+  <text x="60" y="92" class="t" font-size="18" font-weight="700" letter-spacing="3" fill="#F2C811">HI, I'M MONIL SONI</text>
+  <text x="60" y="148" class="t" font-size="46" font-weight="800" fill="#FFFFFF">Power BI Developer · Data Analyst</text>
+  <rect x="60" y="170" width="64" height="5" rx="3" fill="#F2C811"/>
+  <text x="60" y="214" class="t" font-size="22" fill="#9AA8C3">Turning scattered spreadsheets into <tspan fill="#FFFFFF" font-weight="600">dashboards teams trust.</tspan></text>
+  <text x="60" y="254" class="t" font-size="16" font-weight="600" letter-spacing=".5" fill="#F2C811">Power BI  ·  DAX  ·  SQL  ·  Microsoft Fabric  ·  Azure Data Factory</text>
+
+  <!-- donut rings -->
+  <g fill="none" stroke-width="8" stroke-linecap="round">
+    <circle cx="930" cy="70" r="24" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle cx="930" cy="70" r="24" stroke="#F472B6" stroke-dasharray="120 151" transform="rotate(-90 930 70)"/>
+    <circle cx="996" cy="70" r="24" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle cx="996" cy="70" r="24" stroke="#4FA3F7" stroke-dasharray="98 151" transform="rotate(-90 996 70)"/>
+    <circle cx="1062" cy="70" r="24" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle cx="1062" cy="70" r="24" stroke="#A78BFA" stroke-dasharray="75 151" transform="rotate(-90 1062 70)"/>
+  </g>
+  <!-- venn -->
+  <g style="mix-blend-mode:screen">
+    <circle cx="1150" cy="58" r="26" fill="#A78BFA" fill-opacity=".35"/>
+    <circle cx="1186" cy="58" r="26" fill="#F472B6" fill-opacity=".35"/>
+    <circle cx="1168" cy="90" r="26" fill="#4FA3F7" fill-opacity=".35"/>
+  </g>
+
+  <!-- bar + line chart -->
+  <line class="grid" x1="900" y1="150" x2="1220" y2="150"/><line class="grid" x1="900" y1="190" x2="1220" y2="190"/><line class="grid" x1="900" y1="230" x2="1220" y2="230"/>
+  <polyline class="axis" fill="none" points="900,140 900,262 1220,262"/>
+  <g fill="url(#bar)">
+    <rect class="b" x="912" y="222" width="18" height="40" rx="3"/>
+    <rect class="b" x="944" y="208" width="18" height="54" rx="3" style="animation-delay:.08s"/>
+    <rect class="b" x="976" y="214" width="18" height="48" rx="3" style="animation-delay:.16s"/>
+    <rect class="b" x="1008" y="192" width="18" height="70" rx="3" style="animation-delay:.24s"/>
+    <rect class="b" x="1040" y="198" width="18" height="64" rx="3" style="animation-delay:.32s"/>
+    <rect class="b" x="1072" y="176" width="18" height="86" rx="3" style="animation-delay:.40s"/>
+    <rect class="b" x="1104" y="182" width="18" height="80" rx="3" style="animation-delay:.48s"/>
+    <rect class="b" x="1136" y="164" width="18" height="98" rx="3" style="animation-delay:.56s"/>
+    <rect class="b" x="1168" y="152" width="18" height="110" rx="3" style="animation-delay:.64s"/>
+  </g>
+  <path d="M921 206 L953 192 L985 198 L1017 176 L1049 182 L1081 160 L1113 166 L1145 146 L1177 134 L1177 262 L921 262Z" fill="url(#yf)"/>
+  <polyline class="ln" points="921,206 953,192 985,198 1017,176 1049,182 1081,160 1113,166 1145,146 1177,134" fill="none" stroke="#F2C811" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="1177" cy="134" r="5" fill="#0B1222" stroke="#F2C811" stroke-width="2.5"/>
+</svg>
