@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F2C811&center=true&width=620&lines=Power+BI+Developer;Semantic+Modeling+%7C+DAX+%7C+RLS;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F2C811&center=true&width=620&lines=Power+BI+%7C+DAX+%7C+Power+Query;SQL+%7C+Python+%7C+Pandas;Semantic+Modeling+%7C+Row-Level+Security;Microsoft+Fabric+%7C+Azure+Data+Factory;Tableau+%7C+Looker+Studio+%7C+Excel;Turning+Data+into+Decisions" alt="Typing SVG" />
 </p>
 
 <p align="center">
