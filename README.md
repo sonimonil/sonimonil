@@ -94,6 +94,7 @@ I'm a **Power BI Developer** with **5+ years of experience** in Business Intelli
 
 | Project | The finding | Tools |
 |---------|-------------|-------|
+| [📊 Mutual Fund Analytics (live)](https://github.com/sonimonil/Mutual-Fund-Analytics-Dashboard) | ₹10K/month SIP since 2016 → ₹35.6 L (17.4% XIRR); a liquid fund beat 29 of 36 equity funds last year. Live AMFI NAV API, 41 funds | Power BI, DAX, Power Query |
 | [💰 Financial Planning & Analysis](https://github.com/sonimonil/Financial-Planning-Analysis) | Enterprise sells below cost — COGS at 103% of net sales. Built in PBIP format, so the model is diffable in Git | Power BI, DAX, Python |
 | [📈 Sales Team Performance](https://github.com/sonimonil/Sales_Performance) | 8-rep field force, Q1 → Q2: business +22.4%, call adherence +8.1pp, reconciled from 15 source reports | Excel, BI reporting |
 | [🏏 T20 World Cup Analytics](https://github.com/sonimonil/Cricket_Data_Analysis) | Web-scraped player data modelled into batting & bowling facts, custom DAX measures and a data-driven best-XI selection | Power BI, DAX, Python |
