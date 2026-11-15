@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Monil Soni — Power BI Developer · Data Analyst" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/sonimonil/sonimonil@main/assets/banner.svg" alt="Monil Soni — Power BI Developer · Data Analyst" width="100%"/>
 </p>
 
 <p align="center">
@@ -109,9 +109,9 @@ I'm a **Power BI Developer** with **5+ years of experience** in Business Intelli
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonimonil/sonimonil/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonimonil/sonimonil/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sonimonil/sonimonil/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sonimonil/sonimonil@output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sonimonil/sonimonil@output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://cdn.jsdelivr.net/gh/sonimonil/sonimonil@output/github-snake.svg" />
   </picture>
 </p>
 
