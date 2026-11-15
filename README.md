@@ -108,10 +108,6 @@ I'm a **Power BI Developer** with **5+ years of experience** in Business Intelli
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-one.vercel.app/api?username=sonimonil&show_icons=true&hide_border=true&title_color=F2C811&icon_color=F2C811&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonimonil/sonimonil/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonimonil/sonimonil/output/github-snake.svg" />
